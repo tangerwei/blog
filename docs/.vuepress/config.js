@@ -1,6 +1,5 @@
 module.exports = {
   theme: "reco",
-  base: "/blog/",
   themeConfig: {
     // 主题配色
     mode: "light",
