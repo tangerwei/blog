@@ -1,7 +1,7 @@
 ---
 title: Python 虚拟环境
 date: 2020-09-11
-categorys:
+categories:
   - Python
 tags:
   - Python-Env
