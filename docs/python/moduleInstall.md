@@ -1,9 +1,9 @@
 ---
 title: Install Python Modules
+date: 2020-09-11
 categories:
-- 编程语言
-tags:
 - Python
+tags:
 - pip
 ---
 
