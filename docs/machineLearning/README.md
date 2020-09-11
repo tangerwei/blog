@@ -2,7 +2,8 @@
 title: Hypothesis
 tags:
  - hypothesis
-categories: MachineLearning
+categories:
+ - 机器学习
 ---
 
 :::tip
