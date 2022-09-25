@@ -5,6 +5,9 @@ module.exports = {
     mode: "light",
     // 作者
     author: "duke",
+    // 备案号
+    record: '皖ICP备2022003743号-1',
+    recordLink: 'https://beian.miit.gov.cn/',
     // 博客配置
     blogConfig: {
       category: {
@@ -41,5 +44,5 @@ module.exports = {
       },
     ],
     ["link", { rel: "icon", href: "/favicon.ico" }],
-  ],
+  ]
 };
