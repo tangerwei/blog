@@ -1,4 +1,5 @@
 module.exports = {
+  title: "一只小唐唐",
   theme: "reco",
   themeConfig: {
     // 主题配色
